@@ -1,0 +1,69 @@
+body
+{
+	background-color: white;
+}
+.navbar
+{
+background-color: yellow;
+}
+.navbar .navbar-brand
+{
+	font-size:1.8em;
+	color: red;
+}
+.navbar-collapse
+{
+	text-align: center;
+	font-size:1.2em;
+}
+/*END OF NAVBAR */
+/*MENU*/
+.menu-title
+{
+	text-transform: capitalize;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.menu-item
+{
+padding:10px;
+border: 1px solid black;
+margin-bottom: 30px;
+background-color: gray;
+}
+
+.menu-item .menu-item-title
+{
+	margin-top: 5px;
+	text-align: center;
+}
+
+.menu-item:hover
+{
+box-shadow: 5px 5px 2px 0px black;
+}
+
+/*  Large devices */
+@media (min-width:1200px)
+{
+
+} 
+
+/* Medium devices*/
+@media (min-width: 992px) and (max-width: 1199px)
+{
+
+}
+
+/*  Small devices*/
+@media (min-width: 768px) and (max-width: 991px)
+{
+
+}
+
+/*   extra small devices  */
+@media (max-width: 767px)
+{
+
+}
