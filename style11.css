@@ -1,6 +1,6 @@
 body
 {
-	background-color: maroon;
+	background-color: white;
 }
 .navbar
 {
@@ -30,7 +30,7 @@ background-color: yellow;
 padding:10px;
 border: 1px solid black;
 margin-bottom: 30px;
-background-color: gray;
+background-color: pink;
 }
 
 .menu-item .menu-item-title
